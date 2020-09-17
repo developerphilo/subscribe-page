@@ -1,4 +1,8 @@
 # subscribe-page
 
 
-Simple subscribe page for upcoming sites or site under development
+
+Can be implemented on upcoming sites site under development
+
+
+Feel free to add email verification and send email 
